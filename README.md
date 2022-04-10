@@ -34,8 +34,7 @@ If the project has a lot of features, list them here.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Before you go any further, [ensure you have Python and that the expected version is available from your command line](https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line). If you do not have Python, please install the latest 3.x version.
 
 ### Prerequisites
 
