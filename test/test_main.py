@@ -1,4 +1,4 @@
-from src import main
+import main
 
 
 def test_add():
