@@ -3,12 +3,12 @@ on: [push, pull_request]
 jobs:
   python-lint:
     runs-on: ubuntu-latest
-    name: CI workflow
+    name: lint
     steps:
     - name: checkout source repo
       uses: actions/checkout@v2
 
-    - name: linting
+    - name: pylinter
       uses: programmingwithalex/pylinter@v1.4.3
       with:
         python-root: '.'
