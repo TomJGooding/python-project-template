@@ -64,7 +64,7 @@ You can help improve the documentation for this project by making them more cohe
 
 ## Pull Requests
 
-Good pull requests - patches, improvements, new features - are a fantastic help. Please ensure that the pull request is limited to one type (bug fix, feature, docs etc.) and keep it as small as possible. You can create  multiple PRs instead of creating a huge one.
+Good pull requests - patches, improvements, new features - are a fantastic help. Please ensure that the pull request is limited to one type (bug fix, feature, docs etc.) and keep it as small as possible. You can create multiple PRs instead of creating a huge one.
 
 If you're looking for a way to contribute, you can scan through the existing issues for something to work on.
 
