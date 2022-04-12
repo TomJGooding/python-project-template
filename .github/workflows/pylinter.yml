@@ -5,18 +5,13 @@ on: [push, pull_request]
 jobs:
   python-lint:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.8", "3.9", "3.10"]
+    name: CI workflow
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
-      with:
-        python-version: ${{ matrix.python-version }}
+    - name: checkout source repo
+      uses: actions/checkout@v2
 
- - name: linting
-      uses: programmingwithalex/pylinter@v1.4.3
+    - name: linting
+      uses: programmingwithalex/pylinters@v1.4.2
       with:
         python-root: '.'
         flake8-flags: ''
