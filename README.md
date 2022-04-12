@@ -1,4 +1,5 @@
 [![lint](https://github.com/TomJGooding/python-project-template/actions/workflows/pylinter.yml/badge.svg)](https://github.com/TomJGooding/python-project-template/actions/workflows/pylinter.yml)
+[![tests](https://github.com/TomJGooding/python-project-template/actions/workflows/pytest.yml/badge.svg)](https://github.com/TomJGooding/python-project-template/actions/workflows/pytest.yml)
 
 # Project Title
 
