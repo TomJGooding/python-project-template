@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/TomJGooding/python-project-template)](https://github.com/TomJGooding/python-project-template/issues)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/Python%20application)
+
 # Project Title
 
 Brief description of the project in a few sentences. Add a screenshot showcasing the project (see instructions below in the Usage section).
