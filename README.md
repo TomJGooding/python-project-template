@@ -94,11 +94,14 @@ List your contributors, if any, with links to their GitHub profiles.
 
 ## Acknowledgements
 
+<!---
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
 If you followed tutorials, include links to those here as well.
+-->
+
+- [Programming with Alex](https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A) for his [pylinter GitHub Action](https://github.com/marketplace/actions/pylinter) used in this project.
 
 ## Licence
 
 Licensed under the [GNU General Public License v3.0](LICENSE).
-
