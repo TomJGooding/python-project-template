@@ -1,4 +1,4 @@
-import main
+from project_name import main
 
 
 def test_add():
