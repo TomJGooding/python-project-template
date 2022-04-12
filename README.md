@@ -1,3 +1,5 @@
+[![lint](https://github.com/TomJGooding/python-project-template/actions/workflows/pylinter.yml/badge.svg)](https://github.com/TomJGooding/python-project-template/actions/workflows/pylinter.yml)
+
 # Project Title
 
 Brief description of the project in a few sentences. Add a screenshot showcasing the project (see instructions below in the Usage section).
