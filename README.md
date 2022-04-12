@@ -1,5 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/TomJGooding/python-project-template)](https://github.com/TomJGooding/python-project-template/issues)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/Python%20application)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/tests?label=tests)
 
 # Project Title
 
