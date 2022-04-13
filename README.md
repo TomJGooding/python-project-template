@@ -84,10 +84,10 @@ Thank you for your interest in contributing to this project!
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-There are many ways in which you can participate in this project, including some that don't require you to write a single line of code.
+There are many ways in which you can participate in this project, including some that don't require you to write a single line of code:
 
 - Report a bug
-- Request a feature
+- Request a feature/enhancement
 - Write documentation, for users and contributors
 - Contribute to the codebase
 
@@ -101,9 +101,13 @@ List your contributors, if any, with links to their GitHub profiles.
 
 ## Acknowledgements
 
+<!---
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
 If you followed tutorials, include links to those here as well.
+-->
+
+- [Programming with Alex](https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A/) for his [pytester-cov](https://github.com/marketplace/actions/pytester-cov) GitHub Action used to check code coverage in this project.
 
 ## Licence
 
