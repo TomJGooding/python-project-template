@@ -1,5 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TomJGooding/python-project-template)](https://github.com/TomJGooding/python-project-template/issues)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/tests?label=tests)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/Python%20application?label=build)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/pytester-cov%20workflow?label=coverage)
+![GitHub issues by-label](https://img.shields.io/github/issues/TomJGooding/python-project-template/bug?label=bug%20reports)
+![GitHub issues by-label](https://img.shields.io/github/issues/TomJGooding/python-project-template/enhancement?label=feature%20requests)
 
 # Project Title
 
