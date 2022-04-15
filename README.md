@@ -1,5 +1,5 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/Python%20application?label=build)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/pytester-cov%20workflow?label=coverage)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/Python%20application/main)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/TomJGooding/python-project-template/pytester-cov/main?label=coverage)
 ![GitHub issues by-label](https://img.shields.io/github/issues/TomJGooding/python-project-template/bug?label=bug%20reports)
 ![GitHub issues by-label](https://img.shields.io/github/issues/TomJGooding/python-project-template/enhancement?label=feature%20requests)
 
