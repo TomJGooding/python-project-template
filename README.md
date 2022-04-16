@@ -39,18 +39,11 @@ If the project has a lot of features, list them here.
 
 ## Getting Started
 
-Before you go any further, [ensure you have Python and that the expected version is available from your command line](https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line). 
-
-If you do not have Python, please install the latest 3.x version from [python.org](https://www.python.org/).
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Before you go any further, [ensure you have Python and that the expected version is available from your command line](https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line).
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If you do not have Python, please install the latest 3.x version from [python.org](https://www.python.org/) or refer to the [Installing Python](https://docs.python-guide.org/starting/installation/#installation) section of the Hitchhiker’s Guide to Python.
 
 ### Installation
 
